@@ -6,7 +6,7 @@
 - chalk
 
 Steps:
- $ git clone https://github.com/dev-vicki/markOne.git
- $ npm i readline-sync
- $ npm i chalk
- $ node index.js
+ - $ git clone https://github.com/dev-vicki/markOne.git
+ - $ npm i readline-sync
+ - $ npm i chalk
+ - $ node index.js
